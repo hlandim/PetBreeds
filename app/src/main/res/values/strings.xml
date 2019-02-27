@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PetBreed</string>
+    <string name="breed_request_error">Falha ao obter as raças</string>
+    <string name="breed_request_empty">Raça(s) não encotrada.</string>
+</resources>
